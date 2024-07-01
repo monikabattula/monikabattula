@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Software Engineer**
+- 👯 I’m looking to collaborate on **Network Engineer**
 
 - 🤝 I’m looking for help with **Kubernetes**
 
